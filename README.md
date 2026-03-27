@@ -26,3 +26,15 @@ Interactive COVID-19 global data explorer built with Python and Streamlit.
 
 ## 🚀 How to Run Locally
 ```bash
+git clone https://github.com/DixithaBV/covid-19-dashboard.git
+cd covid-19-dashboard
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 👤 Author
+**Dixitha BV** — AIML Engineering Student
+- 🐙 GitHub: [@DixithaBV](https://github.com/DixithaBV)
+- 💼 LinkedIn: [Dixitha BV](https://linkedin.com/in/dixitha-bv-9467a9359)
+
+> ⭐ Star this repo if you find it helpful!
